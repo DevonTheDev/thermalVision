@@ -1,0 +1,1 @@
+AddCSLuaFile("weapons/thermalviewer.lua")
